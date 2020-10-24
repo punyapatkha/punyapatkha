@@ -1,10 +1,10 @@
 
 Skill
 
-  Python
+    Python
   
-  airflow
+    airflow
   
-  Docker
+    Docker
   
-  Terraform
+    Terraform
