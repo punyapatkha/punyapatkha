@@ -1,1 +1,5 @@
-# test default .gitignore python
+Skill
+  Python
+  airflow
+  Docker
+  Terraform
