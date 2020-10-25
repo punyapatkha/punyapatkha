@@ -1,10 +1,6 @@
 
-Skill
-
-    Python
-  
-    airflow
-  
-    Docker
-  
-    Terraform
+Tech Stack
+    - Python
+    - Airflow
+    - Docker
+    - Terraform
