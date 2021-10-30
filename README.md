@@ -2,7 +2,6 @@
 
 Tech Stack
 
-    - R
     - Python
     - Airflow
     - Docker
