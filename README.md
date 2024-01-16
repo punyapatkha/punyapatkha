@@ -4,7 +4,7 @@ Research Interests
 
     - Medical Image Analysis
     
-    - Software Developement Procedure for Hearing impairment
+    - Standard of Procedure for Hearing impairment Software Developer
 
 
 Tech Stack
