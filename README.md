@@ -1,6 +1,6 @@
 # Data Engineer / Python Developer / Independent Researcher
 
-Tech Stack
+### Tech Stack
 
     - Python
     
@@ -14,7 +14,7 @@ Tech Stack
     
     - SQL
 
-Research Interests
+### Research Interests
 
     - Data Pipeline & Cloud Datawarehouse
     
