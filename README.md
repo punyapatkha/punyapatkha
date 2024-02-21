@@ -1,14 +1,6 @@
-# Independent Researcher
-
-Research Interests
-
-    - Medical Image Analysis
-    
-    - Standard of Procedure for Hearing impairment Software Developer
-
+# Data Engineer / Python Developer / Independent Researcher
 
 Tech Stack
-
 
     - Python
     
@@ -21,3 +13,11 @@ Tech Stack
     - Google Cloud Platform
     
     - SQL
+
+Research Interests
+
+    - Data Pipeline & Cloud Datawarehouse
+    
+    - Standard of Procedure for Hearing impairment Software Developer
+
+    - Medical Image Analysis
