@@ -1,4 +1,4 @@
-# Data Engineer / Python Developer / Independent Researcher
+# Data Architect / Independent Researcher
 
 ### Tech Stack
 
