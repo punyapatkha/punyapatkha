@@ -20,4 +20,4 @@
     
     - Standard of Procedure for Hearing impairment Software Developer
 
-    - ~~Medical Image Analysis~~
+    - Medical Image Analysis
